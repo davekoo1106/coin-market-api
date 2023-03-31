@@ -1,1 +1,2 @@
-# coin-market-api
+# coin-cap-app
+ 
